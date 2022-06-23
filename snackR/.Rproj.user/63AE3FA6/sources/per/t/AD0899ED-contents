@@ -1,0 +1,10 @@
+Package: snackR
+Type: Package
+Title: To achieve complex functions Snake game.
+Version: 0.1.0
+Author: Yinghao Xing
+Maintainer: Yinghao Xing <2214993411@qq.com>
+Description: Snake game construction. The greedy Snake game is realized. Black obstacles, pause and resume keyboard events, sound events, etc. are added to the game.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
